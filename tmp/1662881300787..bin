@@ -1,0 +1,5 @@
+{
+    "status": 429,
+    "message": "requests limit exceeded (10 req / day), call owner for an upgrade to premium or VIP.",
+    "result": "error"
+}
